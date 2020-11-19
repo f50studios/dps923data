@@ -1,1 +1,14 @@
 
+{ 
+  "student": "Kirk Parillon", 
+  "version": "1.0.0",
+  "timestamp": "2020-11-10",
+  "count": "5",
+  "data": [
+    {"id":20, "courseCode":"IPC100","courseName":"Intro To C Programming",
+    "id":21, "courseCode":"BTP200","courseName":"Programming in C++ 2",
+    "id":22, "courseCode":"BAB100","courseName":"Intro To Financial Accounting"}
+  ]
+  
+  
+}
