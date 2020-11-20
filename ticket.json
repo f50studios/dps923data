@@ -1,14 +1,10 @@
 
+
+
 { 
-  "ticketame": [
-    "Balcony Level","Lower Level","Courtside"
-  ],
-  "ticketPrice": [
-    1170,10434,27777
-  ],
-  "quantity": [
-    0,0,0
+  "ticket": [
+    {"ticketName":"Balcony Level","ticketPrice":1170,"quantity":0},
+    {"ticketName":"Lower Level","ticketPrice":10434,"quantity":0},
+    {"ticketName":"Courtside","ticketPrice":27777,"quantity":0}
   ]
-  
-  
 }
